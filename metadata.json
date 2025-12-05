@@ -1,0 +1,5 @@
+{
+  "name": "Veo 3.1 Studio",
+  "description": "A professional prompt generator and video creation studio using Google's Veo 3.1 models. Craft cinematic prompts and generate high-quality videos.",
+  "requestFramePermissions": []
+}
